@@ -1,0 +1,8 @@
+E:\Practicals\C#\Labs\13th June 2023\2\bin\Debug\2.exe.config
+E:\Practicals\C#\Labs\13th June 2023\2\bin\Debug\2.exe
+E:\Practicals\C#\Labs\13th June 2023\2\bin\Debug\2.pdb
+E:\Practicals\C#\Labs\13th June 2023\2\obj\Debug\2.csproj.AssemblyReference.cache
+E:\Practicals\C#\Labs\13th June 2023\2\obj\Debug\2.csproj.SuggestedBindingRedirects.cache
+E:\Practicals\C#\Labs\13th June 2023\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+E:\Practicals\C#\Labs\13th June 2023\2\obj\Debug\2.exe
+E:\Practicals\C#\Labs\13th June 2023\2\obj\Debug\2.pdb
